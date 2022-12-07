@@ -1,11 +1,3 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Schets je ontwikkeling
 
-# Naam deeltaak
-
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+![image](https://user-images.githubusercontent.com/112861148/206163386-c7425de2-ed04-4c32-afb8-5f100acea61e.png)
